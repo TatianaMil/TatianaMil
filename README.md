@@ -22,3 +22,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="35" height="35"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="35" height="35"/>&nbsp;
 </div> 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?TatianaMil=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
